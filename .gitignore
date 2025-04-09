@@ -1,0 +1,8 @@
+/SWP391-Project/dist/
+/SWP391-Project/build/
+/SWP391-Project/lib/
+SWP391-Project/nbproject/private/private.properties
+SWP391-Project/nbproject/private/private.xml
+*.war
+/SWP391-Project/src/java/enums/Constants.java
+/SWP391-Project/src/java/util/SyncGitLab.java
